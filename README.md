@@ -9,7 +9,8 @@ The implementation of speech recognition based robot performs motion through spe
  This project gives an idea on working with a voice recognition software to control a robot, which can be further implemented for the semi-autonomous voice-controlled wheelchair in hospitals and other purposes.
  
  ### Checkout YouTube Video
- ![Youtube Video](https://youtu.be/3WwrHXjeO9Y)
+[![Youtube Video](https://github.com/shravanksubrahmanya/IoT-Based-Spech-Recognition-Robot/blob/1a9fde30d2514d6cd8ea6a7e7ae95d40748ded6a/robot%20thumbnail.png)](https://youtu.be/3WwrHXjeO9Y "Video Link")
+
 
 ### Software Specifications:
 * Arduino IDE
