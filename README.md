@@ -7,6 +7,9 @@ Internet of Things - Speech Recognition
 The implementation of speech recognition based robot performs motion through speech inputs as well as text inputs.
 
  This project gives an idea on working with a voice recognition software to control a robot, which can be further implemented for the semi-autonomous voice-controlled wheelchair in hospitals and other purposes.
+ 
+ ### Checkout YouTube Video
+ [![Youtube Video]({image-url})]({https://youtu.be/3WwrHXjeO9Y} "Video Link")
 
 ### Software Specifications:
 * Arduino IDE
@@ -47,3 +50,4 @@ For an example – if the robot has to move forward , the ‘forward / move forw
 3. Burn the "robot1" Arduino code into Arduino UNO
 4. Set up the "serial port" name in the python file.
 5. Run the python file and start giving commands.
+6. In case you are not using bluetooth module, use serial cable to connect Arduino Uno and PC
