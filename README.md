@@ -38,6 +38,9 @@ The idea is to run a  python program that will do the Speech to text part, proce
 
 For an example – if the robot has to move forward , the ‘forward / move forward’ command will be given followed by robots name. the python interpretter will process the speech and will send a byte ‘f’ to the arduino board through serial port, Arduino then execute the forward() function. As simple as that.
 
+### Architecture Diagram:
+![Architecture Diagram](bluetooth car circuit234.jpg)
+
 ### Installation process:
 1. Install the above given python libraries using the command "pip install <library name>"
 2. Install the Adafruit motor shield library in Arduino IDE
